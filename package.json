@@ -1,0 +1,13 @@
+{
+  "name": "com.coldhours.coldtools",
+  "version": "1.0.0",
+  "displayName": "Cold Tools",
+  "description": "These are various tools I made that I regularly use on my projects.",
+  "unity": "2019.1",
+  "author": {
+    "name": "Pedro Oliveira",
+    "email": "coldhoursdev@gmail.com",
+    "url": "https://www.coldhours.com"
+  },
+  "unityRelease": "1f1"
+}
